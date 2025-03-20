@@ -16,6 +16,9 @@ int main() {
 
 	// 동적 메모리 할당 (올바른 크기 계산)
 	p = (int*)malloc(size * sizeof(int)); // size개 정수를 저장할 크기 할당
+	 // 형변환
+	
+
 
 	// 메모리 할당 실패 확인
 	if (p == NULL) {
