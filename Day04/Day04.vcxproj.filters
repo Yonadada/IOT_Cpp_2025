@@ -15,46 +15,58 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="copyConstructor_1_01.cpp">
+    <ClCompile Include="operator_1_01.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="copyConstructor_1_02.cpp">
+    <ClCompile Include="operator_1_02.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="copyConstructor_1_03.cpp">
+    <ClCompile Include="operator_1_03.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="변환생성자_2_01.cpp">
+    <ClCompile Include="operator_1_04.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="변환생성자_2_02.cpp">
+    <ClCompile Include="operator_1_05.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="변환생성자_2_03.cpp">
+    <ClCompile Include="operator_1_06.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="copyConstrucotr_1_04_선생님.cpp">
+    <ClCompile Include="operator_1_07.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="moveConstructor_3_01.cpp">
+    <ClCompile Include="Human_2_01.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="moveConstructor_3_02.cpp">
+    <ClCompile Include="Human_2_02.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="static_4_01.cpp">
+    <ClCompile Include="inline_3_01.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="static_4_02.cpp">
+    <ClCompile Include="inline_3_02.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="static_4_03_RE.cpp">
+    <ClCompile Include="template_4_01.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="operator_5_01_Re.cpp">
+    <ClCompile Include="operator_1_08.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="operator_5_02_RE.cpp">
+    <ClCompile Include="template_4_02.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="template_4_03.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="template_4_04.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="template_4_05.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="template_4_06.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
