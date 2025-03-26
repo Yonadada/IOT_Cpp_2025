@@ -1,4 +1,4 @@
-/*
+/* - 클래스, 생성자, 복사 생성자, 소멸자 -
 	step03
 	char 포인터의 name, int 타입의 age, 출력을 담당하는 showHuman()을 가지는 Human 클래스가 있다
 	name을 동적 할당하고 나이30, 이름 홍명보인 man 객체를 생성하시오.
@@ -6,7 +6,7 @@
 */
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
-#include <cstring>
+#include <cstring>  // c스타일 문자열 함수(strlen, strcpy) 사용하기 위한 헤더
 
 class Human {
 private:
